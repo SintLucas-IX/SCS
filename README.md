@@ -17,3 +17,8 @@ Er hoeft niets extra's geïmporteerd te worden.
 - Geluiden en plaatjes uit de Unity Asset Store zitten bewust niet in dit project (de licentie staat
   openbaar verspreiden niet toe). Waar de show een Node-plaatje zou tonen, verschijnt een melding in de
   **Console**. Eigen geluiden voeg je toe via de lijst *Geluiden* op het object met `ShowList`.
+
+## Auteurs
+
+- Luc Peersman ([@Luc-Peersman](https://github.com/Luc-Peersman))
+- [@MickPMaas](https://github.com/MickPMaas)
